@@ -5,7 +5,7 @@ jwplayer("container").setup({
 		    
 		    primary: 'html5',
 		  
-		    autostart: true,
+		    
 
 		    skin: {
 		    	name: 'ZonAnime',
