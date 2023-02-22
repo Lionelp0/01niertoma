@@ -58,7 +58,7 @@ jwplayer("container").setup({
 		    }],
 			    captions: [{
 		      file: "https://dl.dropbox.com/s/06k6wjixhrmdb2r/Nier%20Automata%20Ver1.1a%20Episodio%201.ass",
-		      label: 'Español Latinoamericano,
+		      label: 'Esp-Lat',
 		      kind: "captions",
 		      "default": true,
 		    },
