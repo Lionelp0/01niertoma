@@ -2,7 +2,7 @@ jwplayer("container").setup({
 
 		    controls: true,
 		    displaytitle: true,
-		    fullscreen: "false",
+		    
 		    primary: 'html5',
 		  
 		    autostart: true,
