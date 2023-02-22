@@ -57,8 +57,8 @@ jwplayer("container").setup({
 
 		    }],
 			    captions: [{
-		      file: "https://dl.dropbox.com/s/mslc104gg1jf5gy/%5BJudas%5D%20Nier%20Automata%20Ver1.1a%20-%20S01E01.mkv8.ass",
-		      label: 'Vietnamese',
+		      file: "https://dl.dropbox.com/s/06k6wjixhrmdb2r/Nier%20Automata%20Ver1.1a%20Episodio%201.ass",
+		      label: 'Español Latinoamericano,
 		      kind: "captions",
 		      "default": true,
 		    },
