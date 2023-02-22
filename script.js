@@ -57,7 +57,7 @@ jwplayer("container").setup({
 
 		    }],
 			    captions: [{
-		      file: "https://dl.dropbox.com/s/06k6wjixhrmdb2r/Nier%20Automata%20Ver1.1a%20Episodio%201.ass",
+		      file: "https://dl.dropbox.com/s/al57mdtulk80qrs/%5BJudas%5D%20Nier%20Automata%20Ver1.1a%20-%20S01E01.srt",
 		      label: 'Esp-Lat',
 		      kind: "captions",
 		      "default": true,
