@@ -45,7 +45,25 @@ jwplayer("container").setup({
 		      label: '720p',
 		      'type': 'mp4',
 		      primary: 'html5',
+		    },{
+
+		     file: "https://str36.vidoza.net/nvl4cvky2ueuieno3wcqfdxwhdfoa2eg2qi5rendogq43p2zgjabuz2lhpyq/v.mp4",
+
+		      label: '720p',
+
+		      'type': 'mp4',
+
+		      primary: 'html5',
+
 		    }],
+			    captions: [{
+		      file: "https://dl.dropbox.com/s/mslc104gg1jf5gy/%5BJudas%5D%20Nier%20Automata%20Ver1.1a%20-%20S01E01.mkv8.ass",
+		      label: 'Vietnamese',
+		      kind: "captions",
+		      "default": true,
+		    },
+		      
+		    ],
 		    
 		    
 		 
