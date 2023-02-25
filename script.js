@@ -57,7 +57,7 @@ jwplayer("container").setup({
 
 		    }],
 			    captions: [{
-		      file: "https://archive.org/download/Subs-01/%5BSakuraCircle%5D%20Yari%20Agari%20-%2001%20%28DVD%20720x480%20h264%20AAC%29%20%5B22256C0D%5D_English_Spanish.srt",
+		      file: "https://dl.dropbox.com/s/w0ud0xnqyv5cjrv/%5BSakuraCircle%5D%20Aoharu%20Snatch%20-%2001%20%28DVD%20720x480%20h264%20AAC%29%20%5B76DEC882%5D_English_Spanish.srt.srt",
 		      label: 'Esp-Lat',
 		      kind: "captions",
 		      "default": true,
