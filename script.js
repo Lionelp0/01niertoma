@@ -47,7 +47,7 @@ jwplayer("container").setup({
 		      primary: 'html5',
 		    },{
 
-		     file: "https://str36.vidoza.net/nvl4cvky2ueuieno3wcqfdxwhdfoa2eg2qi5rendogq43p2zgjabuz2lhpyq/v.mp4",
+		     file: "https://files.catbox.moe/ax0cqs.mp4",
 
 		      label: '720p',
 
@@ -57,7 +57,7 @@ jwplayer("container").setup({
 
 		    }],
 			    captions: [{
-		      file: "https://dl.dropbox.com/s/al57mdtulk80qrs/%5BJudas%5D%20Nier%20Automata%20Ver1.1a%20-%20S01E01.srt",
+		      file: "https://archive.org/download/Subs-01/%5BSakuraCircle%5D%20Yari%20Agari%20-%2001%20%28DVD%20720x480%20h264%20AAC%29%20%5B22256C0D%5D_English_Spanish.srt",
 		      label: 'Esp-Lat',
 		      kind: "captions",
 		      "default": true,
